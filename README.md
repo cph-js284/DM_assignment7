@@ -18,7 +18,7 @@ FWIW, we've looked at many code bases that use them and it seems the overwhelmin
 
 The code contains a couple of references to a tool called CCRewriter, support for this tool was stopped in 2015 (https://marketplace.visualstudio.com/items?itemName=RiSEResearchinSoftwareEngineering.CodeContractsforNET)
 
-The accoutn class contains both the old syntax (shown in class - not working anymore) and the "new" syntax, which is really just a way to make the tool recognize them as legacy requires statements.
+The Account class contains both the old syntax (shown in class - not working anymore) and the "new" syntax, which is really just a way to make the tool recognize them as legacy requires statements.
 
 The invariant in this small example is the account balance (Amount variable)
 
